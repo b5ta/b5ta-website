@@ -1,7 +1,7 @@
 <html lang="en">
 <head>
   <title>B5TA | Home</title>
-  <link rel="icon" href="Images/NGfavicon1.png">
+  <link rel="icon" href="#">
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -20,14 +20,11 @@
   <script src="js/bootstrap.js"></script>
   <script src="js/dropdown.js"></script>
 
-  <script src="js/jquery-idleTimeout.js"></script>
-  <script type="text/javascript" charset="utf-8">
-		  $(document).ready(function(){
-		   $(document).idleTimeout();
-		  });
-	</script>
-
   <style>
+    body {
+      position: relative;
+    }
+
     .head-format{
       background-color:#0066ff;
       color:#fff;
@@ -69,26 +66,45 @@
           display: none;
     }}
 
-    /* Creates the scrollspy effect on the navbar*/
     .affix {
          top: 0;
          width: 100%;
      }
 
      .affix + .container-fluid {
-         padding-top: 70px;
+         padding-top: 0px;
          margin-top: 50px;
      }
 
-     /* Add a gray background color and some padding to the footer */
-     footer {
-       background-color: #f2f2f2;
-       padding: 25px;
-       margin: 0;
-     }
+     .container-fluid {
+        padding-right: 0px;
+        padding-left: 0px;
+      }
+     ul.nav-pills {
+      top: 0px;
+      margin-top: 60px;
+      }
+      #section1 {padding-top:50px;height:600px;color: #fff; background-color: #1E88E5;}
+      #section2 {padding-top:50px;height:600px;color: #fff; background-color: #673ab7;}
+      #section3 {padding-top:50px;height:600px;color: #fff; background-color: #673ab7;}
+      #section4 {padding-top:50px;height:600px;color: #fff; background-color: #673ab7;}
+      #section5 {padding-top:50px;height:600px;color: #fff; background-color: #673ab7;}
+
+      @media screen and (max-width: 810px) {
+        #section1, #section2, #section3, #section4, #section5  {
+            margin-left: 150px;
+        }
+      }
+
+       /* Add a gray background color and some padding to the footer */
+       footer {
+         background-color: #f2f2f2;
+         padding: 25px;
+         margin: 0;
+       }
    </style>
 
-  <body data-spy="scroll" data-target=".navbar" data-offset="50">
+  <body data-spy="scroll" data-target="#myScrollspy" data-offset="15">
 
     <div class="container-fluid head-format">
       <div class="container text-center">
@@ -148,3 +164,44 @@
         </div>
       </div>
     </nav>
+
+    <div class="container-fluid">
+      <div class="row">
+        <!--Side Navbar-->
+        <nav class="col-sm-2" id="myScrollspy">
+          <ul class="nav nav-pills nav-stacked" data-spy="affix" data-offset-top="300" >
+            <li><a href="#section1">Section 1</a></li>
+            <li><a href="#section2">Section 2</a></li>
+            <li><a href="#section3">Section 3</a></li>
+            <li><a href="#section4">Section 4</a></li>
+            <li><a href="#section5">Section 5</a></li>
+          </ul>
+        </nav>
+
+        <div class="col-sm-10">
+          <div id="section1">
+            <h1>Section 1</h1>
+            <p>Try to scroll this section and look at the navigation list while scrolling!</p>
+          </div>
+          <div id="section2">
+            <h1>Section 2</h1>
+            <p>Try to scroll this section and look at the navigation list while scrolling!</p>
+          </div>
+          <div id="section3">
+            <h1>Section 3</h1>
+            <p>Try to scroll this section and look at the navigation list while scrolling!</p>
+          </div>
+          <div id="section4">
+            <h1>Section 4</h1>
+            <p>Try to scroll this section and look at the navigation list while scrolling!</p>
+          </div>
+          <div id="section5">
+            <h1>Section 5</h1>
+            <p>Try to scroll this section and look at the navigation list while scrolling!</p>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+</body>
