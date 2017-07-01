@@ -32,8 +32,9 @@
     }
 
     .logo{
-      height: 100%;
+      height: 50%;
       width: auto;
+      left: 20%;
     }
 
     /* Remove the navbar's default rounded borders and increase the bottom margin */
