@@ -33,8 +33,9 @@
     }
 
     .logo{
-      height: 100%;
+      height: 50%;
       width: auto;
+      left: 20%;
     }
 
     /* Remove the navbar's default rounded borders and increase the bottom margin */
@@ -108,7 +109,7 @@
   <body data-spy="scroll" data-target="#myScrollspy" data-offset="15">
 
     <div class="container-fluid head-format">
-      <div class="container text-center">
+      <div class="container">
         <img class="logo" src="images/b5talogo.png" alt"b5talogo">
       </div>
     </div>
@@ -139,11 +140,11 @@
                           <!--Guides dropdown-->
             <li class="dropdown"><a class="dropdown-toggle" data-hover="dropdown" href="#"><span class="glyphicon glyphicon-list-alt"></span> Guides<span id="caret" class="caret"></span></a>
               <ul class="dropdown-menu">
-                <li><a href="http://runescape.guide/bosses/">Bosses</a></li>
-                <li><a href="http://runescape.guide/gear/solo/">Gear</a></li>
-                <li><a href="http://runescape.guide/clue-scroll/">Invention Perks</a></li>
-                <li><a href="http://runescape.guide/free-runecoins/">Free Runecoins</a></li>
-                <li><a href="http://runescape.guide/clue-scroll/">Clue Scrolls</a></li>
+                <li><a href="http://runescape.guide/bosses/" target="_blank">Bosses</a></li>
+                <li><a href="http://runescape.guide/gear/solo/" target="_blank">Gear</a></li>
+                <li><a href="http://runescape.guide/clue-scroll/" target="_blank">Invention Perks</a></li>
+                <li><a href="http://runescape.guide/free-runecoins/" target="_blank">Free Runecoins</a></li>
+                <li><a href="http://runescape.guide/clue-scroll/" target="_blank">Clue Scrolls</a></li>
               </ul>
             </li>            
 
