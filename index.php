@@ -33,7 +33,7 @@
     }
 
     .logo{
-      height: 50%;
+      height: 100%;
       width: auto;
       left: 20%;
     }
