@@ -1,10 +1,11 @@
 <html lang="en">
 <head>
-  <title>B5TA | Home</title>
+  <title>Clan B5TA</title>
   <link rel="icon" href="#">
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-
+  <meta name="description" content="Clan B5TA is an active social, skilling and bossing Runescape community that knows how to have fun. Founded: September 30, 2014">
+  
   <!--Dropdown hover css link-->
   <link rel="stylesheet" type="text/css" href="css/dropdownhover.css">
 
@@ -32,9 +33,8 @@
     }
 
     .logo{
-      height: 50%;
+      height: 100%;
       width: auto;
-      left: 20%;
     }
 
     /* Remove the navbar's default rounded borders and increase the bottom margin */
