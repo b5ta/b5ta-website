@@ -110,7 +110,7 @@
 
     <div class="container-fluid head-format">
       <div class="container">
-        <img class="logo" src="images/b5talogo.png" alt"b5talogo">
+        <a href ="index.php"><img class="logo" src="images/b5talogo.png" alt"b5talogo"></a>
       </div>
     </div>
 
@@ -129,7 +129,7 @@
 
             <!-- !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! -->
                           <!--Home Navbar-->
-            <li class="active"><a href="home.php"><span class="glyphicon glyphicon-home"></span> Home</a></li>
+            <li class="active"><a href="index.php"><span class="glyphicon glyphicon-home"></span>Home</a></li>
 
             <!-- !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! -->
                           <!--Discord Navbar-->
