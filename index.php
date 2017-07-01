@@ -29,7 +29,7 @@
     .head-format{
       background-color:#0066ff;
       color:#fff;
-      height:250px;
+      height:125px;
     }
 
     .logo{
@@ -115,7 +115,7 @@
     </div>
 
     <!--Left side of navbar-->
-    <nav class="navbar navbar-inverse" data-spy="affix" data-offset-top="250" >
+    <nav class="navbar navbar-inverse" data-spy="affix" data-offset-top="125" >
       <div class="container-fluid">
         <div class="navbar-header">
           <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
