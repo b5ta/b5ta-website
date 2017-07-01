@@ -138,12 +138,13 @@
                           <!--Guides dropdown-->
             <li class="dropdown"><a class="dropdown-toggle" data-hover="dropdown" href="#"><span class="glyphicon glyphicon-list-alt"></span> Guides<span id="caret" class="caret"></span></a>
               <ul class="dropdown-menu">
-                <li><a href="#">Bossing</a></li>
-                <li><a href="#">Money Making</a></li>
-                <li><a href="#">Quests</a></li>
-                <li><a href="#">Skilling</a></li>
+                <li><a href="http://runescape.guide/bosses/">Bosses</a></li>
+                <li><a href="http://runescape.guide/gear/solo/">Gear</a></li>
+                <li><a href="http://runescape.guide/clue-scroll/">Invention Perks</a></li>
+                <li><a href="http://runescape.guide/free-runecoins/">Free Runecoins</a></li>
+                <li><a href="http://runescape.guide/clue-scroll/">Clue Scrolls</a></li>
               </ul>
-            </li>
+            </li>            
 
             <!-- !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! -->
                       <!-- Flip chart navbar-->
