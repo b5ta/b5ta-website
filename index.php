@@ -9,9 +9,6 @@
   <!--Dropdown hover css link-->
   <link rel="stylesheet" type="text/css" href="css/dropdownhover.css">
 
-  <!--jumbotronslideshow-->
-  <link rel="stylesheet" type="text/css" href="css/half-slider.css" >
-
   <!--bootsrap css-->
   <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
 
