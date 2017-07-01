@@ -110,7 +110,7 @@
 
     <div class="container-fluid head-format">
       <div class="container">
-        <a href ="index.php"><img class="logo" src="images/b5talogo.png" alt"b5talogo"></a>
+        <a href ="https://htmlpreview.github.io/?https://github.com/b5ta/b5ta-website/blob/master/index.php"><img class="logo" src="images/b5talogo.png" alt"b5talogo"></a>
       </div>
     </div>
 
@@ -129,7 +129,7 @@
 
             <!-- !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! -->
                           <!--Home Navbar-->
-            <li class="active"><a href="index.php"><span class="glyphicon glyphicon-home"></span>Home</a></li>
+            <li class="active"><a href="https://htmlpreview.github.io/?https://github.com/b5ta/b5ta-website/blob/master/index.php"><span class="glyphicon glyphicon-home"></span>Home</a></li>
 
             <!-- !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! -->
                           <!--Discord Navbar-->
