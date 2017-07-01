@@ -122,7 +122,7 @@
             <span class="icon-bar"></span>
           </button>
         </div>
-        <div class="collapse navbar-collapse" id="myNavbar">
+        <div class="collapse navbar-collapse" id="myNa  vbar">
           <ul class="nav navbar-nav">
 
             <!-- !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! -->
@@ -131,7 +131,7 @@
 
             <!-- !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! -->
                           <!--Discord Navbar-->
-            <li><a href="#"><img src="images/discord.jpg" class="img-circle" height="19px" width="19px"> Discord</a></li>
+            <li><a href="http://b5ta.com/discord"><img src="images/discord.jpg" class="img-circle" height="19px" width="19px"> Discord</a></li>
 
 
             <!-- !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! -->
@@ -148,7 +148,7 @@
 
             <!-- !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! -->
                       <!-- Flip chart navbar-->
-            <li><a href="#"><span class="glyphicon glyphicon-usd"></span> Flip Chart</a></li>
+            <li><a href="http://runescape.guide/flipping/"><span class="glyphicon glyphicon-usd"></span>Flipping</a></li>
 
           </ul>
 
