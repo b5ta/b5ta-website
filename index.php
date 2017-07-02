@@ -170,33 +170,33 @@
         <!--Side Navbar-->
         <nav class="col-sm-2" id="myScrollspy">
           <ul class="nav nav-pills nav-stacked" data-spy="affix" data-offset-top="300" >
-            <li><a href="#section1">Section 1</a></li>
-            <li><a href="#section2">Section 2</a></li>
-            <li><a href="#section3">Section 3</a></li>
-            <li><a href="#section4">Section 4</a></li>
-            <li><a href="#section5">Section 5</a></li>
+            <li><a href="#section1">Clan B5TA</a></li>
+            <li><a href="#section2">Bossing</a></li>
+            <li><a href="#section3">Skilling</a></li>
+            <li><a href="#section4">Flipping</a></li>
+            <li><a href="#section5">Join</a></li>
           </ul>
         </nav>
 
         <div class="col-sm-10">
           <div id="section1">
-            <h1>Section 1</h1>
+            <h1>Clan B5TA</h1>
             <p>Try to scroll this section and look at the navigation list while scrolling!</p>
           </div>
           <div id="section2">
-            <h1>Section 2</h1>
+            <h1>Bossing</h1>
             <p>Try to scroll this section and look at the navigation list while scrolling!</p>
           </div>
           <div id="section3">
-            <h1>Section 3</h1>
+            <h1>Skilling</h1>
             <p>Try to scroll this section and look at the navigation list while scrolling!</p>
           </div>
           <div id="section4">
-            <h1>Section 4</h1>
+            <h1>Flipping</h1>
             <p>Try to scroll this section and look at the navigation list while scrolling!</p>
           </div>
           <div id="section5">
-            <h1>Section 5</h1>
+            <h1>Join</h1>
             <p>Try to scroll this section and look at the navigation list while scrolling!</p>
           </div>
         </div>
