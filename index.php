@@ -24,7 +24,7 @@
     }
 
     .head-format{
-      background-color:#0066ff;
+      background-color:#ffffff;
       color:#fff;
       height:125px;
     }
