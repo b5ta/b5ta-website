@@ -1,4 +1,7 @@
-# https://htmlpreview.github.io/?https://github.com/b5ta/b5ta-website/blob/master/index.php
+# Clan B5TA
+
+https://htmlpreview.github.io/?https://github.com/b5ta/b5ta-website/blob/master/index.php
+
 FEOBABALABABA!
 Meahoy, memoyay? 
 MeyoyYOY, ladyonmamoy!
