@@ -1,7 +1,7 @@
 <html lang="en">
 <head>
   <title>Clan B5TA</title>
-  <link rel="icon" href="images/b5ta.png">
+  <link rel="icon" href="https://i1.wp.com/b5ta.com/wp-content/uploads/2015/10/cropped-tnOKdrI.png">
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="Clan B5TA is an active social, skilling and bossing Runescape community that knows how to have fun. Founded: September 30, 2014">
