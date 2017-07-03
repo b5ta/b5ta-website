@@ -130,7 +130,7 @@
 
             <!-- !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! -->
                           <!--Discord Navbar-->
-            <li><a href="http://b5ta.com/discord"><img src="images/discord.jpg" class="img-circle" height="19px" width="19px"> Discord</a></li>
+            <li><a href="https://htmlpreview.github.io/?https://github.com/b5ta/b5ta-website/blob/master/discord.php"><img src="images/discord.jpg" class="img-circle" height="19px" width="19px"> Discord</a></li>
 
 
             <!-- !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! -->
