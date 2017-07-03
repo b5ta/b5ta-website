@@ -169,7 +169,7 @@
       <div class="row">
         <!--Side Navbar-->
         <nav class="col-sm-2" id="myScrollspy">
-          <ul class="nav nav-pills nav-stacked" data-spy="affix" data-offset-top="300" >
+          <ul class="nav nav-pills nav-stacked" data-spy="affix" data-offset-top="250" >
             <li><a href="#section1">Clan B5TA</a></li>
             <li><a href="#section2">Bossing</a></li>
             <li><a href="#section3">Skilling</a></li>
