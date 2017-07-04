@@ -110,9 +110,6 @@
       opacity: 1.0;
       filter: Alpha(opacity=100); /* IE8 and earlier */
     }
-    .navbar-nav  li a:hover {
-        color: #1abc9c !important;
-    }
     .clickable {
       cursor: pointer;
     }
