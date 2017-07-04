@@ -95,9 +95,9 @@
           <h1 style="text-align:center;">Join our Discord server!</h1>
           <br>
           <br>
-          <h3>Download Discord Here: <a href="https://discordapp.com/download">https://discordapp.com/download</a></h3>
+          <h3>Download Discord Here: <a href="https://discordapp.com/download" target="_blank">https://discordapp.com/download</a></h3>
           <br>
-          <h3>After you download the client, click this invite link to join our clan's Discord server: <a href="https://discord.gg/0qfZioFZLSnmWMs7">https://discord.gg/0qfZioFZLSnmWMs7</a></h3>
+          <h3>After you download the client, click this invite link to join our clan's Discord server: <a href="https://discord.gg/0qfZioFZLSnmWMs7" target="_blank">https://discord.gg/0qfZioFZLSnmWMs7</a></h3>
         </div>
       </div>
       <br>
@@ -127,7 +127,7 @@
           <br>
           <p>Low level bosses | Godwars Dungeon 1 | Mid level bosses | Godwars Dungeon 2 | High level bosses | Raids</p>
           <hr>
-          <a href="https://discord.gg/0qfZioFZLSnmWMs7">
+          <a href="https://discord.gg/0qfZioFZLSnmWMs7" target="_blank">
             <button class="btn btn-lg btn-primary joinbutton">
               Join Now!
             </button>
@@ -148,11 +148,11 @@
           <hr>
           <p>RuneInfo provides many functions including player gainz tracking and player skill lookup</p>
           <br>
-          <p>Our discord has this bot implemented into it. To view the full list of commands <a href="https://runeinfo.xyz/ri/commands">click this link.</a></p>
+          <p>Our discord has this bot implemented into it. To view the full list of commands <a href="https://runeinfo.xyz/ri/commands" target="_blank">click this link.</a></p>
           <br>
           <p>Warbands timer | High level bosses staples | Portable location tracker | GE price checking</p>
           <hr>
-          <a href="https://discord.gg/0qfZioFZLSnmWMs7">
+          <a href="https://discord.gg/0qfZioFZLSnmWMs7" target="_blank">
             <button class="btn btn-lg btn-primary joinbutton">
               Join Now!
             </button>
@@ -177,7 +177,7 @@
           <br>
           <p>Get a jump on gp gainz and join our discord!</p>
           <hr>
-          <a href="https://discord.gg/0qfZioFZLSnmWMs7">
+          <a href="https://discord.gg/0qfZioFZLSnmWMs7" target="_blank">
             <button class="btn btn-lg btn-primary joinbutton">
               Join Now!
             </button>
