@@ -22,6 +22,15 @@
   <script src="js/dropdown.js"></script>
   <script src="js/externalscript.js"></script>
 
+  <style>
+  h2{
+    font-size: 20px;
+  }
+  .well-style:hover{
+    background-color: #ccc;
+  }
+  </style>
+
   <body>
 
     <div class="container-fluid head-format">
@@ -56,7 +65,7 @@
                           <!--Guides dropdown-->
             <li class="dropdown active"><a class="dropdown-toggle" data-hover="dropdown" href="#"><span class="glyphicon glyphicon-list-alt"></span> Guides<span id="caret" class="caret"></span></a>
               <ul class="dropdown-menu">
-                <li><a href="https://htmlpreview.github.io/?https://github.com/b5ta/b5ta-website/blob/master/bossguides.php" target="_blank">Bosses</a></li>
+                <li><a href="https://htmlpreview.github.io/?https://github.com/b5ta/b5ta-website/blob/master/bossguides.php">Bosses</a></li>
                 <li><a href="http://runescape.guide/gear/solo/" target="_blank">Gear</a></li>
                 <li><a href="http://runescape.guide/clue-scroll/" target="_blank">Invention Perks</a></li>
                 <li><a href="http://runescape.guide/free-runecoins/" target="_blank">Free Runecoins</a></li>
@@ -83,6 +92,48 @@
         </div>
       </div>
     </nav>
+
+    <div class="container-fluid" style="padding-top: 50px">
+      <div class="row">
+        <h1 style="text-align: center">Bossing Guides</h1>
+      </div>
+      <hr>
+      <div class="row">
+        <div class="col-sm-4">
+          <div class="well well-lg clickable well-style">
+            <h3 class="clickable" style="text-align:center">Low-Level Bosses</h3>
+          </div>
+        </div>
+        <div class="col-sm-4">
+          <div class="well well-lg clickable well-style">
+            <h3 class="clickable" style="text-align:center">Godwars Dungeon 1</h3>
+          </div>
+        </div>
+        <div class="col-sm-4">
+          <div class="well well-lg clickable well-style">
+            <h3 class="clickable" style="text-align:center">Mid-Level Bosses</h3>
+          </div>
+        </div>
+      </div>
+      <hr>
+      <div class="row">
+        <div class="col-sm-4">
+          <div class="well well-lg clickable well-style">
+            <h3 class="clickable" style="text-align:center">Godwars Dungeon 2</h3>
+          </div>
+        </div>
+        <div class="col-sm-4">
+          <div class="well well-lg clickable well-style">
+            <h3 class="clickable" style="text-align:center">High-Level Bosses</h3>
+          </div>
+        </div>
+        <div class="col-sm-4">
+          <div class="well well-lg clickable well-style">
+            <h3 class="clickable" style="text-align:center">Raids</h3>
+          </div>
+        </div>
+      </div>
+    </div>
 
 
   </body>
