@@ -12,110 +12,15 @@
   <!--bootsrap css-->
   <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
 
+  <!--external css-->
+  <link rel="stylesheet" type="text/css" href="css/externalstyle.css">
+
   <!-- JAVASCRIPT files-->
   <script src="js/jquery.js"></script>
   <script src="js/jquery.min.js"></script>
   <script src="js/bootstrap.js"></script>
   <script src="js/dropdown.js"></script>
   <script src="js/externalscript.js"></script>
-
-  <style>
-    body {
-      position: relative;
-    }
-    hr{
-      margin-left: 50px;
-      margin-right: 50px;
-    }
-    .head-format{
-      background-color:#ffffff;
-      color:#fff;
-      height:125px;
-    }
-    .logo{
-      height: 100%;
-      width: auto;
-      left: 5%;
-    }
-    .discfeature{
-      padding-top: 15px;
-      padding-bottom: 15px;
-      cursor: pointer;
-      border-radius: 25px;
-    }
-    .discfeature:hover{
-      background-color: #b3c4ff;
-    }
-    .discfeature-image{
-      margin: auto;
-      width: 75%;
-    }
-    #bossing-div{
-      display: none;
-    }
-    #runeinfo-div{
-      display: none;
-    }
-    #flipchat-div{
-      display: none;
-    }
-    .back-button{
-      border: none;
-      background-color: transparent;
-      color: #000;
-      opacity: 0.8;
-      filter: Alpha(opacity=80); /* IE8 and earlier */
-      margin-left: 0;
-      padding-top: 0;
-    }
-    .back-button:hover{
-      opacity: 1.0;
-      filter: Alpha(opacity=100); /* IE8 and earlier */
-    }
-    /* Remove the navbar's default rounded borders and increase the bottom margin */
-    .navbar {
-      margin-bottom: 0px;
-      border-radius: 0;
-    }
-    /* Makes navbar opaque on hover*/
-    .navbar-inverse {
-      z-index: 1;
-      opacity: 0.90;
-      filter: alpha(opacity=90); /* For IE8 and earlier */
-    }
-    .navbar-inverse:hover {
-      opacity: 1.0;
-      filter: alpha(opacity=100); /* For IE8 and earlier */
-    }
-    /* Removes Carets on dropdown based on resize */
-    #caret{
-      display: inline-block;
-    }
-    @media (max-width: 767px) {
-      #caret{
-          display: none;
-      }
-      .dropdown:hover .dropdown-menu {
-          display: none;
-    }}
-    .affix {
-         top: 0;
-         width: 100%;
-     }
-     .affix + .container-fluid {
-         padding-top: 0px;
-         margin-top: 50px;
-     }
-     .container-fluid {
-        padding-right: 0px;
-        padding-left: 0px;
-
-      }
-      .joinbutton{
-        margin: auto;
-        width: 25%;
-      }
-   </style>
 
   <body>
 
@@ -151,7 +56,7 @@
                           <!--Guides dropdown-->
             <li class="dropdown"><a class="dropdown-toggle" data-hover="dropdown" href="#"><span class="glyphicon glyphicon-list-alt"></span> Guides<span id="caret" class="caret"></span></a>
               <ul class="dropdown-menu">
-                <li><a href="http://runescape.guide/bosses/" target="_blank">Bosses</a></li>
+                <li><a href="https://htmlpreview.github.io/?https://github.com/b5ta/b5ta-website/blob/master/bossguides.php" target="_blank">Bosses</a></li>
                 <li><a href="http://runescape.guide/gear/solo/" target="_blank">Gear</a></li>
                 <li><a href="http://runescape.guide/clue-scroll/" target="_blank">Invention Perks</a></li>
                 <li><a href="http://runescape.guide/free-runecoins/" target="_blank">Free Runecoins</a></li>
