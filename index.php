@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="Clan B5TA is an active social, skilling and bossing Runescape community that knows how to have fun. Founded: September 30, 2014">
-  
+
   <!--Dropdown hover css link-->
   <link rel="stylesheet" type="text/css" href="css/dropdownhover.css">
 
@@ -22,25 +22,21 @@
     body {
       position: relative;
     }
-
     .head-format{
       background-color:#ffffff;
       color:#fff;
       height:125px;
     }
-
     .logo{
       height: 100%;
       width: auto;
       left: 5%;
     }
-
     /* Remove the navbar's default rounded borders and increase the bottom margin */
     .navbar {
       margin-bottom: 0px;
       border-radius: 0;
     }
-
     /* Makes navbar opaque on hover*/
     .navbar-inverse {
       z-index: 1;
@@ -51,12 +47,10 @@
       opacity: 1.0;
       filter: alpha(opacity=100); /* For IE8 and earlier */
     }
-
     /* Removes Carets on dropdown based on resize */
     #caret{
       display: inline-block;
     }
-
     @media (max-width: 767px) {
       #caret{
           display: none;
@@ -64,17 +58,14 @@
       .dropdown:hover .dropdown-menu {
           display: none;
     }}
-
     .affix {
          top: 0;
          width: 100%;
      }
-
      .affix + .container-fluid {
          padding-top: 0px;
          margin-top: 50px;
      }
-
      .container-fluid {
         padding-right: 0px;
         padding-left: 0px;
@@ -88,13 +79,11 @@
       #section3 {padding-top:50px;height:600px;color: #fff; background-color: #673ab7;}
       #section4 {padding-top:50px;height:600px;color: #fff; background-color: #673ab7;}
       #section5 {padding-top:50px;height:600px;color: #fff; background-color: #673ab7;}
-
       @media screen and (max-width: 810px) {
         #section1, #section2, #section3, #section4, #section5  {
             margin-left: 150px;
         }
       }
-
        /* Add a gray background color and some padding to the footer */
        footer {
          background-color: #f2f2f2;
@@ -137,13 +126,13 @@
                           <!--Guides dropdown-->
             <li class="dropdown"><a class="dropdown-toggle" data-hover="dropdown" href="#"><span class="glyphicon glyphicon-list-alt"></span> Guides<span id="caret" class="caret"></span></a>
               <ul class="dropdown-menu">
-                <li><a href="http://runescape.guide/bosses/" target="_blank">Bosses</a></li>
+                <li><a href="https://htmlpreview.github.io/?https://github.com/b5ta/b5ta-website/blob/master/bossguides.php">Bosses</a></li>
                 <li><a href="http://runescape.guide/gear/solo/" target="_blank">Gear</a></li>
                 <li><a href="http://runescape.guide/clue-scroll/" target="_blank">Invention Perks</a></li>
                 <li><a href="http://runescape.guide/free-runecoins/" target="_blank">Free Runecoins</a></li>
                 <li><a href="http://runescape.guide/clue-scroll/" target="_blank">Clue Scrolls</a></li>
               </ul>
-            </li>            
+            </li>
 
             <!-- !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! -->
                       <!-- Flip chart navbar-->
