@@ -1,26 +1,26 @@
 $(document).ready(function(){
-    $(".tutorials-div").click(function(){
-        $(".review-div").fadeOut("slow");
-        $(".impression-div").fadeOut("slow", function(){
-          $("#tutorialsinfo").fadeIn("slow");
+    $("#bossing").click(function(){
+        $("#runeinfo").fadeOut("slow");
+        $("#flipchat").fadeOut("slow", function(){
+          $("#bossing-div").fadeIn("slow");
           });
         });
       });
 
 $(document).ready(function(){
-    $(".review-div").click(function(){
-        $(".tutorials-div").fadeOut("slow");
-        $(".impression-div").fadeOut("slow", function(){
-          $("#reviewinfo").fadeIn("slow");
+    $("#runeinfo").click(function(){
+        $("#bossing").fadeOut("slow");
+        $("#flipchat").fadeOut("slow", function(){
+          $("#runeinfo-div").fadeIn("slow");
           });
         });
       });
 
 $(document).ready(function(){
-    $(".impression-div").click(function(){
-        $(".review-div").fadeOut("slow");
-        $(".tutorials-div").fadeOut("slow", function(){
-            $("#impressioninfo").fadeIn("slow");
+    $("#flipchat").click(function(){
+        $("#bossing").fadeOut("slow");
+        $("#runeinfo").fadeOut("slow", function(){
+            $("#flipchat-div").fadeIn("slow");
         });
       });
     });
