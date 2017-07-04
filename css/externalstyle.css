@@ -96,7 +96,7 @@
     .back-button{
       border: none;
       background-color: transparent;
-      color: #fff;
+      color: #000;
       opacity: 0.8;
       filter: Alpha(opacity=80); /* IE8 and earlier */
       margin-left: 0;
