@@ -37,6 +37,24 @@
     #flipchat-div{
       display: none;
     }
+    #low-bosses{
+      display: none;
+    }
+    #gwd1-bosses{
+      display: none;
+    }
+    #mid-bosses{
+      display: none;
+    }
+    #gwd2-bosses{
+      display: none;
+    }
+    #high-bosses{
+      display: none;
+    }
+    #raids-bosses{
+      display: none;
+    }
     .back-button{
       border: none;
       background-color: transparent;
@@ -81,6 +99,10 @@
          width: 100%;
      }
      .affix + .container-fluid {
+         padding-top: 0px;
+         margin-top: 50px;
+     }
+     .affix + .container {
          padding-top: 0px;
          margin-top: 50px;
      }
