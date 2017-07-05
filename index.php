@@ -23,7 +23,7 @@
       position: relative;
     }
     .head-format{
-      background-color:#ffffff;
+      background-color:#fff;
       color:#fff;
       height:125px;
     }
@@ -129,7 +129,7 @@
                 <li><a href="https://htmlpreview.github.io/?https://github.com/b5ta/b5ta-website/blob/master/bossguides.php">Bosses</a></li>
                 <li><a href="http://runescape.guide/gear/solo/" target="_blank">Gear</a></li>
                 <li><a href="http://runescape.guide/clue-scroll/" target="_blank">Invention Perks</a></li>
-                <li><a href="http://runescape.guide/free-runecoins/" target="_blank">Free Runecoins</a></li>
+                <li><a href="https://htmlpreview.github.io/?https://github.com/b5ta/b5ta-website/blob/master/freerunecoins.php" target="_blank">Free Runecoins</a></li>
                 <li><a href="http://runescape.guide/clue-scroll/" target="_blank">Clue Scrolls</a></li>
               </ul>
             </li>
