@@ -29,6 +29,18 @@
   .well-style:hover{
     background-color: #ccc;
   }
+  table {
+  border-collapse: separate;
+  border-spacing: 50px 0;
+  }
+
+  td {
+    padding: 10px 10px;
+    text-align: center;
+  }
+  td:hover{
+    background-color: #ddd;
+  }
   </style>
 
   <body>
@@ -93,47 +105,173 @@
       </div>
     </nav>
 
-    <div class="container-fluid" style="padding-top: 50px">
+    <div class="container" style="padding-top: 50px">
       <div class="row">
         <h1 style="text-align: center">Bossing Guides</h1>
+        <br>
+        <p>These bossing guides fully cover everything you need to know to effienctly and effectivly kill every boss in the game.
+          The guides go over your gear, inventory, boss mechanics, and more so you can easily learn all bosses.
+        </p>
       </div>
       <hr>
       <div class="row">
-        <div class="col-sm-4">
+
+        <!--  LOW_LEVEL_BOSSES  -->
+        <div class="col-sm-4" id="low">
           <div class="well well-lg clickable well-style">
             <h3 class="clickable" style="text-align:center">Low-Level Bosses</h3>
           </div>
         </div>
-        <div class="col-sm-4">
+
+        <div style="col-sm-8" id="low-bosses">
+          <button class="back-button" onclick="document.getElementById('line').style.display='block'; document.getElementById('gwd1').style.display='block'; document.getElementById('mid').style.display='block'; document.getElementById('gwd2').style.display='block'; document.getElementById('high').style.display='block'; document.getElementById('raids').style.display='block'; document.getElementById('low-bosses').style.display='none'">
+            <span class="glyphicon glyphicon-chevron-left"></span>Back
+          </button>
+          <table>
+            <tr>
+              <td class="clickable">Chaos Elemental</td>
+              <td class="clickable">Dagannoth Kings</td>
+            </tr>
+            <tr>
+              <td class="clickable">Giant Mole</td>
+              <td class="clickable">Kalphite Queen</td>
+            </tr>
+            <tr>
+              <td class="clickable">Exiled Kalphite Queen</td>
+              <td class="clickable">King Black Dragon</td>
+            </tr>
+            <tr>
+              <td class="clickable">The Barrows Brothers</td>
+              <td class="clickable">TzTok-Jad</td>
+            </tr>
+          </table>
+        </div>
+
+        <!--   GODWARS DUNGEON 1   -->
+        <div class="col-sm-4" id="gwd1">
           <div class="well well-lg clickable well-style">
             <h3 class="clickable" style="text-align:center">Godwars Dungeon 1</h3>
           </div>
         </div>
-        <div class="col-sm-4">
+
+        <div class="col-sm-8" id="gwd1-bosses">
+          <button class="back-button" onclick="document.getElementById('line').style.display='block'; document.getElementById('low').style.display='block'; document.getElementById('mid').style.display='block'; document.getElementById('gwd2').style.display='block'; document.getElementById('high').style.display='block'; document.getElementById('raids').style.display='block'; document.getElementById('gwd1-bosses').style.display='none'">
+            <span class="glyphicon glyphicon-chevron-left"></span>Back
+          </button>
+          <table>
+            <tr>
+              <td class="clickable">K'ril Tsutsaroth</td>
+              <td class="clickable">Kree'arra</td>
+            </tr>
+            <tr>
+              <td class="clickable">Commander Zilyana</td>
+              <td class="clickable">General Graardor</td>
+            </tr>
+            <tr>
+              <td class="clickable">Nex</td>
+              <td class="clickable">Nex Angel of Death</td>
+            </tr>
+          </table>
+        </div>
+
+        <!--   MID_LEVEL_BOSSES    -->
+        <div class="col-sm-4" id="mid">
           <div class="well well-lg clickable well-style">
             <h3 class="clickable" style="text-align:center">Mid-Level Bosses</h3>
           </div>
         </div>
+
+        <div class="col-sm-8" id="mid-bosses">
+          <button class="back-button" onclick="document.getElementById('line').style.display='block'; document.getElementById('gwd1').style.display='block'; document.getElementById('low').style.display='block'; document.getElementById('gwd2').style.display='block'; document.getElementById('high').style.display='block'; document.getElementById('raids').style.display='block'; document.getElementById('mid-bosses').style.display='none'">
+            <span class="glyphicon glyphicon-chevron-left"></span>Back
+          </button>
+          <table>
+            <tr>
+              <td class="clickable">Corporeal Beast</td>
+              <td class="clickable">Har-aken</td>
+            </tr>
+            <tr>
+              <td class="clickable">Legiones</td>
+              <td class="clickable">Queen Black Dragon</td>
+            </tr>
+            <tr>
+              <td class="clickable">Kalphite King</td>
+            </tr>
+          </table>
+        </div>
+
       </div>
-      <hr>
+      <!------------------------------>
+      <hr id="line">
+      <!------------------------------>
       <div class="row">
-        <div class="col-sm-4">
+
+        <!--   GODWARS DUNGEON 2    -->
+        <div class="col-sm-4" id="gwd2">
           <div class="well well-lg clickable well-style">
             <h3 class="clickable" style="text-align:center">Godwars Dungeon 2</h3>
           </div>
         </div>
-        <div class="col-sm-4">
+
+        <div class="col-sm-8" id="gwd2-bosses">
+          <button class="back-button" onclick="document.getElementById('line').style.display='block'; document.getElementById('gwd1').style.display='block'; document.getElementById('mid').style.display='block'; document.getElementById('low').style.display='block'; document.getElementById('high').style.display='block'; document.getElementById('raids').style.display='block'; document.getElementById('gwd2-bosses').style.display='none'">
+            <span class="glyphicon glyphicon-chevron-left"></span>Back
+          </button>
+          <table>
+            <tr>
+              <td class="clickable">Gregorovic (Sliske)</td>
+              <td class="clickable">Helwyr (Seren)</td>
+            </tr>
+            <tr>
+              <td class="clickable">Twin Furies (Zamorak)</td>
+              <td class="clickable">Vindicta &amp; Gorvek (Zaros)</td>
+            </tr>
+          </table>
+        </div>
+
+        <!--   HIGH_LEVEL_BOSSES    -->
+        <div class="col-sm-4" id="high">
           <div class="well well-lg clickable well-style">
             <h3 class="clickable" style="text-align:center">High-Level Bosses</h3>
           </div>
         </div>
-        <div class="col-sm-4">
+
+        <div class="col-sm-8" id="high-bosses">
+          <button class="back-button" onclick="document.getElementById('line').style.display='block'; document.getElementById('gwd1').style.display='block'; document.getElementById('mid').style.display='block'; document.getElementById('gwd2').style.display='block'; document.getElementById('low').style.display='block'; document.getElementById('raids').style.display='block'; document.getElementById('high-bosses').style.display='none'">
+            <span class="glyphicon glyphicon-chevron-left"></span>Back
+          </button>
+          <table>
+            <tr>
+              <td class="clickable">Araxxor</td>
+              <td class="clickable">Barrows, Rise of the Six</td>
+            </tr>
+            <tr>
+              <td class="clickable">Telos</td>
+              <td class="clickable">Vorago</td>
+            </tr>
+          </table>
+        </div>
+
+        <!--   RAIDS    -->
+        <div class="col-sm-4" id="raids">
           <div class="well well-lg clickable well-style">
             <h3 class="clickable" style="text-align:center">Raids</h3>
           </div>
         </div>
+
+        <div class="col-sm-8" id="raids-bosses">
+          <button class="back-button" onclick="document.getElementById('line').style.display='block'; document.getElementById('gwd1').style.display='block'; document.getElementById('mid').style.display='block'; document.getElementById('gwd2').style.display='block'; document.getElementById('high').style.display='block'; document.getElementById('low').style.display='block'; document.getElementById('raids-bosses').style.display='none'">
+            <span class="glyphicon glyphicon-chevron-left"></span>Back
+          </button>
+          <table>
+            <tr>
+              <td class="clickable">Beastmaster</td>
+              <td class="clickable">Yakamaru</td>
+            </tr>
+          </table>
+        </div>
+
       </div>
     </div>
-
 
   </body>
