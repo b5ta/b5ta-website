@@ -65,7 +65,7 @@
                 <li><a href="https://htmlpreview.github.io/?https://github.com/b5ta/b5ta-website/blob/master/bossguides.php">Bosses</a></li>
                 <li><a href="http://runescape.guide/gear/solo/" target="_blank">Gear</a></li>
                 <li><a href="http://runescape.guide/clue-scroll/" target="_blank">Invention Perks</a></li>
-                <li><a href="https://htmlpreview.github.io/?https://github.com/b5ta/b5ta-website/blob/master/freerunecoins.php" target="_blank">Free Runecoins</a></li>
+                <li><a href="https://htmlpreview.github.io/?https://github.com/b5ta/b5ta-website/blob/master/freerunecoins.php">Free Runecoins</a></li>
                 <li><a href="http://runescape.guide/clue-scroll/" target="_blank">Clue Scrolls</a></li>
               </ul>
             </li>
@@ -132,6 +132,6 @@
       <h2><strong>Step 9: Wait up to 72 hours for them to process the request and enjoy your free RuneCoins!</strong></h2>
       <br>
       <img src="images/step9.png" class="img-responsive" alt="superrewards">
-      
+
 
   </body>
