@@ -26,9 +26,6 @@
   h2{
     font-size: 20px;
   }
-  .well-style:hover{
-    background-color: #ccc;
-  }
   </style>
 
   <body>
@@ -93,47 +90,48 @@
       </div>
     </nav>
 
-    <div class="container-fluid" style="padding-top: 50px">
-      <div class="row">
-        <h1 style="text-align: center">Bossing Guides</h1>
-      </div>
+    <div class="container">
+      <h1 style="text-align:center;">Free RuneCoins Guide</h1>
       <hr>
-      <div class="row">
-        <div class="col-sm-4">
-          <div class="well well-lg clickable well-style">
-            <h3 class="clickable" style="text-align:center">Low-Level Bosses</h3>
-          </div>
-        </div>
-        <div class="col-sm-4">
-          <div class="well well-lg clickable well-style">
-            <h3 class="clickable" style="text-align:center">Godwars Dungeon 1</h3>
-          </div>
-        </div>
-        <div class="col-sm-4">
-          <div class="well well-lg clickable well-style">
-            <h3 class="clickable" style="text-align:center">Mid-Level Bosses</h3>
-          </div>
-        </div>
-      </div>
+      <p>Runecoins can be used to get lots of useful things, such as a Legendary Pets, Bank Spaces, Bank Presets, Cosmetic Overrides and more.
+        Follow the steps below to generate Runecoins for free!</p>
+      <br>
+      <h2><strong>Step 1: Go to Soloman’s Store and click the Earn button.</strong></h2>
+      <br>
+      <img src="images/step1.png" class="img-responsive" alt="soloman's store">
+      <br>
       <hr>
-      <div class="row">
-        <div class="col-sm-4">
-          <div class="well well-lg clickable well-style">
-            <h3 class="clickable" style="text-align:center">Godwars Dungeon 2</h3>
-          </div>
-        </div>
-        <div class="col-sm-4">
-          <div class="well well-lg clickable well-style">
-            <h3 class="clickable" style="text-align:center">High-Level Bosses</h3>
-          </div>
-        </div>
-        <div class="col-sm-4">
-          <div class="well well-lg clickable well-style">
-            <h3 class="clickable" style="text-align:center">Raids</h3>
-          </div>
-        </div>
-      </div>
-    </div>
-
+      <h2><strong>Step 2: Click the SuperRewards button.</strong></h2>
+      <br>
+      <img src="images/step2.png" class="img-responsive" alt="superrewards">
+      <br>
+      <hr>
+      <h2><strong>Step 3: Click the Free Offers button and then choose an offer that has a decent payout and that you can prove you actually complete with a screenshot.
+        I recommend the Health Insurance offer as it is easy to prove.  Make sure to keep scrolling until you find an offer that you can actually complete!
+        If you want a free alternate email address or phone number, use <a href="http://mail.google.com/" target="_blank">Gmail</a> or <a href="http://voice.google.com/" target="_blank">Google Voice.</a>
+      </strong></h2>
+      <br>
+      <img src="images/step3.png" class="img-responsive" alt="selection">
+      <br>
+      <hr>
+      <h2><strong>Step 4: Complete the offer as instructed (with valid information).</strong></h2>
+      <br>
+      <h2><strong>Step 5: Take a screenshot of the completed offer. Upload your screenshot of completing the offer to <a href="http://imgur.com/" target="_blank">IMGUR</a>.</strong></h2>
+      <br>
+      <h2><strong>Step 6: Go back to the original Superrewards page and click on the Get Help button.</strong></h2>
+      <br>
+      <img src="images/step6.png" class="img-responsive" alt="superrewards">
+      <br>
+      <hr>
+      <h2><strong>Step 7: Click the help button on the offer that you completed.</strong></h2>
+      <br>
+      <h2><strong>Step 8: Fill out the application with: “I completed the offer, when will I receive my Runecoins?
+        A screenshot of me completing the offer can be seen here: [insert screenshot link]”.  Fill out the Captcha and press submit.
+      </strong></h2>
+      <br>
+      <h2><strong>Step 9: Wait up to 72 hours for them to process the request and enjoy your free RuneCoins!</strong></h2>
+      <br>
+      <img src="images/step9.png" class="img-responsive" alt="superrewards">
+      
 
   </body>
